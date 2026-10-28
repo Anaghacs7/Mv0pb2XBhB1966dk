@@ -1,0 +1,9 @@
+numpy
+pandas
+scikit-learn
+gensim
+sentence-transformers
+lightgbm
+matplotlib
+jupyterlab
+ipython
